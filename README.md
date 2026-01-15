@@ -1,9 +1,14 @@
 # Spoticry
 A full stack next.js website which roasts people based on their spotify data (top artists and top tracks).
 
+### Important
+The spotify project app status is in developer mode and I am limited to adding 25 users max, manually. 
+To let everyone access and login via their spotify accounts I need to request quota extension which I am not eligible for.
+If you are curious to try the site, DM me your spotify email address and user name.
+
 ### Live Link
-Will be updated soon
-![homescreen](https://github.com/cdhananjay/spoticry/raw/main/public/img/homescreen.png)
+https://spoticry-roastme.vercel.app/
+![preview_gif](https://github.com/cdhananjay/spoticry/raw/main/public/spoticry.gif)
 
 ### todos:
 - Add multiple fallback AI options.
