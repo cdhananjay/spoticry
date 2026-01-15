@@ -11,6 +11,7 @@ https://spoticry-roastme.vercel.app/
 ![preview_gif](https://github.com/cdhananjay/spoticry/raw/main/public/spoticry.gif)
 
 ### todos:
+- Add loading UI wherever needed.
 - Add multiple fallback AI options.
 - Allow users to choose the roast intensity level.
 - Add a share button below the Roast. 
@@ -33,11 +34,11 @@ npm run dev
 ```
 
 ### Customization
-Edit `@/lib/generatePrompts.ts` for custom prompts.
+Edit `@/lib/generatePrompt.ts` for custom prompts.
 
 ### Cost
 - Hosting: Free tier
 - Database: Free tier
-- Groq API: Free tier 
+- Gemini API: Free tier 
 
 ## Feel free to contribute!
