@@ -10,7 +10,7 @@ const Footer = () => {
                         <Link href=""
                            className="hover:text-emerald-600 dark:hover:text-emerald-400"> spoticry </Link>{" "}2026, No rights deserved.</span>
                             <div className="hidden sm:block flex mt-4 space-x-4 sm:justify-center lg:mt-0">
-                                <a href='#'
+                                <a href='https://www.linkedin.com/in/cdhananjay/'
                                    className="w-9 h-9 flex justify-center items-center hover:bg-emerald-600 dark:hover:bg-emerald-500 transition-colors duration-300"
                                 >
                                     <Linkedin />
