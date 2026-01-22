@@ -2,20 +2,19 @@
 A full stack next.js website which roasts people based on their spotify data (top artists and top tracks).
 
 ### Important
-The spotify project app status is in developer mode and I am limited to adding 25 users max, manually. 
-To let everyone access and login via their spotify accounts I need to request quota extension which I am not eligible for.
-If you are curious to try the site, DM me your spotify email address and user name.
+This Spotify project app is currently in developer mode, which limits access to a maximum of 25 manually added users. 
+To allow public login via Spotify accounts, a quota extension is required, which I’m not eligible to request.
+More about criteria for Spotify's web api extended access [here](https://developer.spotify.com/blog/2025-04-15-updating-the-criteria-for-web-api-extended-access).
+<br>
+If you’d like to try the site, feel free to DM me your Spotify email address and username.
+<br>
+Although the project is nearly complete, enabling access for everyone would require manually adding each user’s email, so I’ve decided to pause further development and move on to another project.
+<br>
+That said, this project can still serve as a template or starting point for building similar “roast me based on XYZ” applications using different data sources or platforms.
 
 ### Live Link
 https://spoticry-roastme.vercel.app/
 ![preview_gif](https://github.com/cdhananjay/spoticry/raw/main/public/spoticry.gif)
-
-### todos:
-- Add loading UI wherever needed.
-- Add multiple fallback AI options.
-- Allow users to choose the roast intensity level.
-- Add a share button below the Roast. 
-- Avoid taking user's email, name & and other irrelevant spotify data.
 
 ### Tech Stack
 - Next.js
